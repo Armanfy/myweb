@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+.banner-image h1{
+    color: white;
+    margin-bottom: -12px;
+    margin-left: 125px;
+  }
+  .banner-image p{
+    color: white;
+    margin-top: 27px;
+    margin-left: 125px;
+    padding-right: 307px;
+  }
